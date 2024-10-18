@@ -23,12 +23,5 @@ The chrome extension of love calculator is also available on chrome extension st
 
 On firefox they rejected the extension but we hve an opened issue with them. Follow the issue page to get connected about the update of this calculator on [firefox issue page](https://discourse.mozilla.org/t/add-on-review-questions/82754/155?u=saqib_javaid)
 
-### Amazon App Store
-
-Due to a lots of users request the love calculator team also uplaoded this calculator on amazon store that on the first day got 10k+ users. You can check out this app on [amazon app store page](https://www.amazon.com/gp/product/B0DJFXJTL2)
-
-## Documentation
-
-For complete documentaion on issues and updates related to calculator and the usage of calculator also with step by step explanation of code for all HTML css and js use the [Gitbook documentaion for love calculator](https://intern-ch.gitbook.io/tech-love-calculator)
 
 Hope you guys like this love calculator if you do don't forget to save this repositiory. Thank you
